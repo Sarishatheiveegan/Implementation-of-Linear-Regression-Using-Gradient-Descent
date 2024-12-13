@@ -12,7 +12,7 @@ To write a program to predict the profit of a city using the linear regression m
 1.Use numpy, pandas, and StandardScaler for computations and preprocessing.
 2.Read the dataset and extract features (x) and target (y) variables.
 3.Normalize features and target using StandardScaler.
-4.Add a bias column to x and initialize parameters (theta) as zeros.
+4.Add a bias column to x and initialize parameters (theta) as zeros
 5.Update theta iteratively using gradient descent.
 6.Scale new data, predict using theta, and inverse-transform the result.
 ```
